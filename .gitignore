@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Cameron Bradley</title>
+	</head>
+	<body>
+	<img src="http://cdn.bulbagarden.net/upload/thumb/b/b9/172Pichu.png/250px-172Pichu.png"/>
+	<p>My age is 23, I am from Cordova, TN and I am a male</p>
+	<ul>
+	<li style="color: yellow">Favorite Anime</li>
+	    <ol style="font-size: 12px">
+	        <li>Dragonball Z</li> 
+	        <li>Sailor Moon</li>
+	   </ol>
+	<li>Favorite Comics from America</li>
+	    <ul>
+	        <li style="font-family: Futura">Spiderman</li>
+	        <li><strong>Superman</strong></li>
+	   </ul>
+	
+	<li>Favorite <em>dog</em></li>
+	<li>favorite color</li>
+	</ul>
+	</body>
+</html>
